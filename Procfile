@@ -1,1 +1,1 @@
-web: gunicorn 'PizzaRestaurantDjango.wsgi'
+web: gunicorn 'pizzarestaurant.wsgi'
